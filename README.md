@@ -42,8 +42,8 @@
 ###
 
 <div align="center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Thiab394&theme=outrun&hide_border=true" />
-  <img src = "https://github-readme-stats.vercel.app/api?username=Thiab394&theme=outrun&show_icons=true&hide_border=true&count_private=true" />
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Thiab394&theme=outrun&hide_border=true" height = "150"/>
+  <img src = "https://github-readme-stats.vercel.app/api?username=Thiab394&theme=outrun&show_icons=true&hide_border=true&count_private=true" height = "150"/>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Thiab394&theme=outrun&show_icons=true&hide_border=true&layout=compact" />
 </div>
    
